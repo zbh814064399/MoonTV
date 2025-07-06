@@ -77,9 +77,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "豪华": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
+    "量子资源": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源站"
     }
   }
 }
